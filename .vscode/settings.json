@@ -1,0 +1,8 @@
+{
+  "material-icon-theme.activeIconPack": "react",
+  "search.globalFindClipboard": true,
+  "search.showLineNumbers": true,
+  "search.smartCase": true,
+  "debug.allowBreakpointsEverywhere": true,
+  "workbench.colorTheme": "Solarized Dark"
+}

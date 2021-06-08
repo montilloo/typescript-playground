@@ -4,6 +4,7 @@
   "search.showLineNumbers": true,
   "search.smartCase": true,
   "debug.allowBreakpointsEverywhere": true,
-  "workbench.colorTheme": "Solarized Dark",
-  "editor.acceptSuggestionOnEnter": "smart"
+  "workbench.colorTheme": "Default Dark+",
+  "editor.acceptSuggestionOnEnter": "smart",
+  "git.ignoreLimitWarning": true
 }
